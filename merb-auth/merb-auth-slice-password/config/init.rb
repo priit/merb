@@ -11,7 +11,7 @@
 # The usual Merb configuration directives and init.rb setup methods apply,
 # including use_orm and before_app_loads/after_app_loads.
 #
-# If you need need different configurations for different environments you can 
+# If you need different configurations for different environments you can 
 # even create the specific environment file in config/environments/ just like
 # in a regular Merb application. 
 #
